@@ -1,0 +1,4 @@
+﻿ALTER TABLE users
+ADD 
+	username VARCHAR (255) NOT NULL,
+	pass VARCHAR (255) NOT NULL;
